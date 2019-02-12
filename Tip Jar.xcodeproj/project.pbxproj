@@ -78,7 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				6CFA12BE2210B2BB00B2E1D8 /* Tip Jar */,
-				6CFA12D32210B2BD00B2E1D8 /* Tip JarTests */,
+				6CFA12D32210B2BD00B2E1D8 /* Tip Jar main */,
 				6CFA12DE2210B2BD00B2E1D8 /* Tip JarUITests */,
 				6CFA12BD2210B2BB00B2E1D8 /* Products */,
 			);
@@ -98,8 +98,8 @@
 			isa = PBXGroup;
 			children = (
 				6CFA12BF2210B2BB00B2E1D8 /* AppDelegate.swift */,
-				6CFA12C12210B2BB00B2E1D8 /* ViewController.swift */,
 				6CFA12C32210B2BB00B2E1D8 /* Main.storyboard */,
+				6CFA12C12210B2BB00B2E1D8 /* ViewController.swift */,
 				6CFA12C62210B2BC00B2E1D8 /* Assets.xcassets */,
 				6CFA12C82210B2BD00B2E1D8 /* LaunchScreen.storyboard */,
 				6CFA12CB2210B2BD00B2E1D8 /* Info.plist */,
@@ -107,13 +107,13 @@
 			path = "Tip Jar";
 			sourceTree = "<group>";
 		};
-		6CFA12D32210B2BD00B2E1D8 /* Tip JarTests */ = {
+		6CFA12D32210B2BD00B2E1D8 /* Tip Jar main */ = {
 			isa = PBXGroup;
 			children = (
 				6CFA12D42210B2BD00B2E1D8 /* Tip_JarTests.swift */,
 				6CFA12D62210B2BD00B2E1D8 /* Info.plist */,
 			);
-			path = "Tip JarTests";
+			path = "Tip Jar main";
 			sourceTree = "<group>";
 		};
 		6CFA12DE2210B2BD00B2E1D8 /* Tip JarUITests */ = {
