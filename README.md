@@ -21,15 +21,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Made changes to the UI, adding colors and some different views to make the app more dynamic.
  
- I made changes to the UI, adding colors and some different views to make the app more dynamic.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/TOk6maM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/niks57F.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](http://www.recordit.co).
 
