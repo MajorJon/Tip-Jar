@@ -35,7 +35,6 @@ GIF created with [Recordit](http://www.recordit.co).
 ## Notes
 
 I experimented trying to add more functionality to the app but was unable to fully implementthem due to bugs and complications. 
-I am excited to learn more about how to improve my app through this course!
 
 ## License
 
